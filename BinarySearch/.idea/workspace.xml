@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c95c02c8-d44c-412a-9aff-7fdad370caed" name="Default" comment="" />
+    <list default="true" id="a78462d6-f3ce-4f4d-b38e-0a639d409cde" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,20 +12,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Array_Shift.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array_Shift.java">
+      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Array_ShiftTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Array_ShiftTest.java">
+      <file leaf-file-name="BinarySearchTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="39" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="300">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,8 +46,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Array_ShiftTest.java" />
-        <option value="$PROJECT_DIR$/src/Array_Shift.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTest.java" />
       </list>
     </option>
   </component>
@@ -58,24 +61,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ArrayShift" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayShift" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArrayShift" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayShift" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -86,9 +89,6 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -110,21 +110,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array_Shift">
-    <configuration name="Array_Shift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Shift" />
-      <module name="ArrayShift" />
+  <component name="RunManager" selected="JUnit.BinarySearchTest">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="BinarySearch" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Array_ShiftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ArrayShift" />
+    <configuration name="BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinarySearch" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Array_ShiftTest" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -136,13 +136,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Array_ShiftTest.reverseArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ArrayShift" />
+    <configuration name="BinarySearchTest.binarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinarySearch" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Array_ShiftTest" />
-      <option name="METHOD_NAME" value="reverseArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTest" />
+      <option name="METHOD_NAME" value="binarySearch" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -153,13 +153,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Array_ShiftTest.reverseArrayTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ArrayShift" />
+    <configuration name="BinarySearchTest.binarySearchTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BinarySearch" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Array_ShiftTest" />
-      <option name="METHOD_NAME" value="reverseArrayTest2" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTest" />
+      <option name="METHOD_NAME" value="binarySearchTwo" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -209,17 +209,17 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Array_Shift" />
-      <item itemvalue="JUnit.Array_ShiftTest" />
-      <item itemvalue="JUnit.Array_ShiftTest.reverseArrayTest2" />
-      <item itemvalue="JUnit.Array_ShiftTest.reverseArrayTest" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="JUnit.BinarySearchTest" />
+      <item itemvalue="JUnit.BinarySearchTest.binarySearch" />
+      <item itemvalue="JUnit.BinarySearchTest.binarySearchTwo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array_Shift" />
-        <item itemvalue="JUnit.Array_ShiftTest.reverseArrayTest" />
-        <item itemvalue="JUnit.Array_ShiftTest" />
-        <item itemvalue="JUnit.Array_ShiftTest.reverseArrayTest2" />
+        <item itemvalue="JUnit.BinarySearchTest" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="JUnit.BinarySearchTest.binarySearchTwo" />
+        <item itemvalue="JUnit.BinarySearchTest.binarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -228,48 +228,40 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c95c02c8-d44c-412a-9aff-7fdad370caed" name="Default" comment="" />
-      <created>1531323105190</created>
+      <changelist id="a78462d6-f3ce-4f4d-b38e-0a639d409cde" name="Default" comment="" />
+      <created>1531382459096</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531323105190</updated>
+      <updated>1531382459096</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Array_ShiftTest - 2018.07.11 at 09h 47m 08s.xml">
-      <configuration name="Array_ShiftTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest - 2018.07.12 at 09h 47m 41s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Array_ShiftTest - 2018.07.11 at 09h 47m 37s.xml">
-      <configuration name="Array_ShiftTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_binarySearch - 2018.07.12 at 10h 07m 24s.xml">
+      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Array_ShiftTest - 2018.07.11 at 09h 48m 26s.xml">
-      <configuration name="Array_ShiftTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest_binarySearchTwo - 2018.07.12 at 10h 07m 40s.xml">
+      <configuration name="BinarySearchTest.binarySearchTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Array_ShiftTest - 2018.07.11 at 10h 07m 13s.xml">
-      <configuration name="Array_ShiftTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest - 2018.07.12 at 10h 07m 48s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Array_ShiftTest - 2018.07.11 at 10h 10m 14s.xml">
-      <configuration name="Array_ShiftTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest - 2018.07.12 at 10h 09m 04s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Array_ShiftTest_reverseArrayTest2 - 2018.07.11 at 10h 11m 00s.xml">
-      <configuration name="Array_ShiftTest.reverseArrayTest2" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest - 2018.07.12 at 10h 09m 56s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Array_ShiftTest_reverseArrayTest2 - 2018.07.11 at 10h 12m 18s.xml">
-      <configuration name="Array_ShiftTest.reverseArrayTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Array_ShiftTest - 2018.07.11 at 10h 17m 28s.xml">
-      <configuration name="Array_ShiftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Array_ShiftTest_reverseArrayTest - 2018.07.11 at 10h 17m 50s.xml">
-      <configuration name="Array_ShiftTest.reverseArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Array_ShiftTest_reverseArrayTest - 2018.07.11 at 10h 22m 56s.xml">
-      <configuration name="Array_ShiftTest.reverseArrayTest" configurationId="JUnit" />
+    <history-entry file="BinarySearchTest - 2018.07.12 at 10h 10m 24s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="717" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -294,8 +286,8 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -305,98 +297,26 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Array_Shift.java">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array_ShiftTest.java">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="39" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="300">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>ArrayShift</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
