@@ -12,4 +12,4 @@ create helper function
 create conditionals for helper function
 feed helper function under the second for loop
 set max value out of the helper function
-return max value 
+return max value
