@@ -8,7 +8,7 @@ public class Main {
         testList.append(15);
         testList.append(222);
 
-        LinkedList.ListNode test = testList.kthFromEnd(5);
+        ListNode test = testList.kthFromEnd(5);
         System.out.println(test.data);
 
     }
