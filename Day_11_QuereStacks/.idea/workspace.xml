@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7691759b-3a25-45c0-9296-5196d0dbdc79" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="QueueWithStacks.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/QueueWithStacks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+              <folding>
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
+                <marker date="1532453803000" expanded="true" signature="1015:1097" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueuesWithStacksTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/QueuesWithStacksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toString</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Queue.java" />
+        <option value="$PROJECT_DIR$/src/QueuesAndStacks.java" />
+        <option value="$PROJECT_DIR$/src/QueueAndStack.java" />
+        <option value="$PROJECT_DIR$/src/QueuesWithStacks.java" />
+        <option value="$PROJECT_DIR$/src/QueuesWithStacksTest.java" />
+        <option value="$PROJECT_DIR$/src/QueueWithStacks.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Day_11_QuereStacks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day_11_QuereStacks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day_11_QuereStacks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day_11_QuereStacks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.QueuesWithStacksTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="QueuesWithStacksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day_11_QuereStacks" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueuesWithStacksTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="QueuesWithStacksTest.dequeueConsecutivePops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day_11_QuereStacks" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueuesWithStacksTest" />
+      <option name="METHOD_NAME" value="dequeueConsecutivePops" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="QueuesWithStacksTest.dequeueConsecutivePopsWithEnqueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day_11_QuereStacks" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueuesWithStacksTest" />
+      <option name="METHOD_NAME" value="dequeueConsecutivePopsWithEnqueue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="QueuesWithStacksTest.dequeueEmptyQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day_11_QuereStacks" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueuesWithStacksTest" />
+      <option name="METHOD_NAME" value="dequeueEmptyQueue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="QueuesWithStacksTest.enqueueWithOneValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day_11_QuereStacks" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueuesWithStacksTest" />
+      <option name="METHOD_NAME" value="enqueueWithOneValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.QueuesWithStacksTest.dequeueEmptyQueue" />
+      <item itemvalue="JUnit.QueuesWithStacksTest.dequeueConsecutivePops" />
+      <item itemvalue="JUnit.QueuesWithStacksTest.dequeueConsecutivePopsWithEnqueue" />
+      <item itemvalue="JUnit.QueuesWithStacksTest" />
+      <item itemvalue="JUnit.QueuesWithStacksTest.enqueueWithOneValue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QueuesWithStacksTest" />
+        <item itemvalue="JUnit.QueuesWithStacksTest.enqueueWithOneValue" />
+        <item itemvalue="JUnit.QueuesWithStacksTest.dequeueConsecutivePopsWithEnqueue" />
+        <item itemvalue="JUnit.QueuesWithStacksTest.dequeueConsecutivePops" />
+        <item itemvalue="JUnit.QueuesWithStacksTest.dequeueEmptyQueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7691759b-3a25-45c0-9296-5196d0dbdc79" name="Default" comment="" />
+      <created>1532408193209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532408193209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="QueuesWithStacksTest_enqueueEmptyQueue - 2018.07.24 at 09h 51m 46s.xml">
+      <configuration name="QueuesWithStacksTest.enqueueEmptyQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest_dequeueWithFiveValues - 2018.07.24 at 09h 54m 01s.xml">
+      <configuration name="QueuesWithStacksTest.dequeueWithFiveValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest_dequeueEmptyQueue - 2018.07.24 at 09h 54m 12s.xml">
+      <configuration name="QueuesWithStacksTest.dequeueEmptyQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest_dequeueConsecutivePops - 2018.07.24 at 09h 56m 03s.xml">
+      <configuration name="QueuesWithStacksTest.dequeueConsecutivePops" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest_dequeueConsecutivePopsWithEnqueue - 2018.07.24 at 09h 57m 21s.xml">
+      <configuration name="QueuesWithStacksTest.dequeueConsecutivePopsWithEnqueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest_dequeueConsecutivePopsWithEnqueue - 2018.07.24 at 09h 57m 55s.xml">
+      <configuration name="QueuesWithStacksTest.dequeueConsecutivePopsWithEnqueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest - 2018.07.24 at 10h 33m 14s.xml">
+      <configuration name="QueuesWithStacksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest_enqueueWithOneValue - 2018.07.24 at 10h 33m 45s.xml">
+      <configuration name="QueuesWithStacksTest.enqueueWithOneValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest - 2018.07.24 at 10h 36m 27s.xml">
+      <configuration name="QueuesWithStacksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueuesWithStacksTest - 2018.07.24 at 10h 37m 46s.xml">
+      <configuration name="QueuesWithStacksTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="717" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32903227" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24959612" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info id="Learn" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32903227" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
+      <window_info id="Learn" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32903227" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/QueuesAndStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AnotherTry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueueWithStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1627#1635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueueAndStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueuesWithStacksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueueWithStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <marker date="1532453803000" expanded="true" signature="1015:1097" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
