@@ -27,13 +27,16 @@ public class LinkedList {
             secondTemp = secondTemp.next;
         }
 
+        if (first.next != second) {
+            first.next = second;
+        }
+
         if (first.next == null) {
             first.next = second;
         }
         if (second.next == null) {
-            second.next = firstTemp;
+            second.next = secondTemp;
         }
-        one.printList();
         return one;
     }
 

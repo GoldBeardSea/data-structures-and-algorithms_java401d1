@@ -28,6 +28,6 @@ public class Main {
         first.printList();
         second.printList();
         first.mergeLinkedList(first, second);
-//        first.printList();
+        first.printList();
     }
 }
