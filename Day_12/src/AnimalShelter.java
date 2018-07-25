@@ -23,8 +23,9 @@ public class AnimalShelter {
             return result;
         }
         firstPoll = AnimalCollective.poll();
-        int size = AnimalCollective.size() - 1;
-        while (!firstPoll.toString().contains(preference)) {
+        int size = AnimalCollective.size();
+
+        while (!firstPoll.toString().contains(preference) && size == 0) {
             if (firstPoll.toString().contains(preference)) {
                     result = firstPoll;
 
@@ -34,10 +35,16 @@ public class AnimalShelter {
                     size--;
                 }
             }
-        while (size > 0) {
+
+        while (size == 0) {
             AnimalCollective.add(AnimalCollective.poll());
             size --;
         }
         return result;
+
+    }
+    @Override
+    public String toString() {
+        return AnimalCollective.toString();
     }
 }
