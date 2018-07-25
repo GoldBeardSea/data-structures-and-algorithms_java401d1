@@ -12,7 +12,7 @@ public class AnimalShelter {
 
     public Pet dequeue (String preference) {
         Pet firstPoll;
-        Pet result;
+        Pet result = null;
         if (AnimalCollective.isEmpty()) {
             System.out.println("No Animals in this Shelter");
             return null;
@@ -27,7 +27,6 @@ public class AnimalShelter {
         while (!firstPoll.toString().contains(preference)) {
             if (firstPoll.toString().contains(preference)) {
                     result = firstPoll;
-                    return result;
 
             } else {
                     AnimalCollective.add(firstPoll);
