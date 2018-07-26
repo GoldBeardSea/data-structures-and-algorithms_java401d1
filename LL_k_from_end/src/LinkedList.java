@@ -29,10 +29,30 @@ public class LinkedList {
             return focalNode;
         }
 
-        public void append(int value) {
+        public void prepend(int value) {
             ListNode appendingNode = new ListNode(value);
             appendingNode.next = head;
             head = appendingNode;
         }
+
+    public void printList() {
+        if (head == null) {
+            System.out.println("<");
+            System.out.println(">");
+        } else {
+            ListNode temp = head;
+            System.out.print("<");
+            while (temp != null) {
+                if (temp == this.head) {
+                    System.out.print("[" + temp.data + "]" + "-->");
+                } else {
+                    System.out.print("[" + temp.data + "]");
+                    System.out.print("-->");
+                }
+                temp = temp.next;
+            }
+            System.out.println("[null]");
+        }
+    }
 
 }
