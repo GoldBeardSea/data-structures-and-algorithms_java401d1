@@ -3,4 +3,4 @@ Given a list of strings, and an integer, count off one by one the list until you
 ## Challenge
 Using a data structure of your choosing solve the Josephus problem and return a string.
 ## Solution
-<img src="../assets/jospehus.jpg" alt="whiteboard animal shelter"/>
+<img src="../assets/josephus.jpg" alt="whiteboard animal shelter"/>
