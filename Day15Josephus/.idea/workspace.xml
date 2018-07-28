@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="316bdbe9-45bf-4f85-b4df-6bbd61053da1" name="Default" comment="" />
+    <list default="true" id="8c98b9ca-f4e5-4982-9bd4-3dd8033bc07c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,38 +12,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="JosephusProblem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JosephusProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JosephusProblemTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JosephusProblemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxStackTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1740">
-              <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="150">
+              <caret line="10" column="49" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="10" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -58,20 +52,23 @@
       </list>
     </option>
   </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../classlecturerepo/seattle-java-401d1/class-14-manual-auth-sessions-bcrypt/demos/AuthDemo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MaxStacks.java" />
-        <option value="$PROJECT_DIR$/src/realStack.java" />
         <option value="$PROJECT_DIR$/src/main.java" />
-        <option value="$PROJECT_DIR$/src/MaxStackTest.java" />
-        <option value="$PROJECT_DIR$/src/MaxStack.java" />
-        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/JosephusProblem.java" />
+        <option value="$PROJECT_DIR$/src/JosephusProblemTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="722" />
@@ -81,19 +78,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MaxStacks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day14MaxStacks" type="462c0819:PsiDirectoryNode" />
+              <item name="Day15Josephus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day15Josephus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MaxStacks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day14MaxStacks" type="462c0819:PsiDirectoryNode" />
+              <item name="Day15Josephus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day15Josephus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -131,16 +128,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaxStackTest">
+  <component name="RunManager" selected="Application.main">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MaxStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MaxStacks" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Day15Josephus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JosephusProblemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day15Josephus" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxStackTest" />
+      <option name="MAIN_CLASS_NAME" value="JosephusProblemTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -152,13 +154,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MaxStackTest.maxThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MaxStacks" />
+    <configuration name="JosephusProblemTest.eeneyMeeney10ListVariableCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day15Josephus" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxStackTest" />
-      <option name="METHOD_NAME" value="maxThree" />
+      <option name="MAIN_CLASS_NAME" value="JosephusProblemTest" />
+      <option name="METHOD_NAME" value="eeneyMeeney10ListVariableCount" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -169,13 +171,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MaxStackTest.maxTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MaxStacks" />
+    <configuration name="JosephusProblemTest.eeneyMeeneyEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day15Josephus" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxStackTest" />
-      <option name="METHOD_NAME" value="maxTwo" />
+      <option name="MAIN_CLASS_NAME" value="JosephusProblemTest" />
+      <option name="METHOD_NAME" value="eeneyMeeneyEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -186,30 +188,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MaxStackTest.popmaxThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MaxStacks" />
+    <configuration name="JosephusProblemTest.eeneyMeeneyHighCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day15Josephus" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxStackTest" />
-      <option name="METHOD_NAME" value="popmaxThree" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="MaxStackTest.popmaxTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MaxStacks" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxStackTest" />
-      <option name="METHOD_NAME" value="popmaxTwo" />
+      <option name="MAIN_CLASS_NAME" value="JosephusProblemTest" />
+      <option name="METHOD_NAME" value="eeneyMeeneyHighCount" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -259,19 +244,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.MaxStackTest.popmaxTwo" />
-      <item itemvalue="JUnit.MaxStackTest.popmaxThree" />
-      <item itemvalue="JUnit.MaxStackTest.maxTwo" />
-      <item itemvalue="JUnit.MaxStackTest" />
-      <item itemvalue="JUnit.MaxStackTest.maxThree" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="JUnit.JosephusProblemTest.eeneyMeeney10ListVariableCount" />
+      <item itemvalue="JUnit.JosephusProblemTest.eeneyMeeneyEmpty" />
+      <item itemvalue="JUnit.JosephusProblemTest.eeneyMeeneyHighCount" />
+      <item itemvalue="JUnit.JosephusProblemTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MaxStackTest" />
-        <item itemvalue="JUnit.MaxStackTest.maxThree" />
-        <item itemvalue="JUnit.MaxStackTest.maxTwo" />
-        <item itemvalue="JUnit.MaxStackTest.popmaxThree" />
-        <item itemvalue="JUnit.MaxStackTest.popmaxTwo" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.JosephusProblemTest" />
+        <item itemvalue="JUnit.JosephusProblemTest.eeneyMeeneyHighCount" />
+        <item itemvalue="JUnit.JosephusProblemTest.eeneyMeeneyEmpty" />
+        <item itemvalue="JUnit.JosephusProblemTest.eeneyMeeney10ListVariableCount" />
       </list>
     </recent_temporary>
   </component>
@@ -280,48 +265,48 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="316bdbe9-45bf-4f85-b4df-6bbd61053da1" name="Default" comment="" />
-      <created>1532667191382</created>
+      <changelist id="8c98b9ca-f4e5-4982-9bd4-3dd8033bc07c" name="Default" comment="" />
+      <created>1532799450235</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1532667191382</updated>
+      <updated>1532799450235</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxStackTest_maxTwo - 2018.07.27 at 10h 39m 16s.xml">
-      <configuration name="MaxStackTest.maxTwo" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeney10ListVariableCount - 2018.07.28 at 11h 34m 34s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeney10ListVariableCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.27 at 10h 42m 12s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeney10ListVariableCount - 2018.07.28 at 11h 35m 07s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeney10ListVariableCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.27 at 10h 47m 10s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeney10ListVariableCount - 2018.07.28 at 11h 35m 46s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeney10ListVariableCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_maxThree - 2018.07.27 at 10h 49m 20s.xml">
-      <configuration name="MaxStackTest.maxThree" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeneyEmpty - 2018.07.28 at 11h 38m 14s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeneyEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_maxThree - 2018.07.27 at 10h 49m 29s.xml">
-      <configuration name="MaxStackTest.maxThree" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeneyHighCount - 2018.07.28 at 11h 38m 49s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeneyHighCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_maxThree - 2018.07.27 at 10h 52m 08s.xml">
-      <configuration name="MaxStackTest.maxThree" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeneyHighCount - 2018.07.28 at 11h 39m 31s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeneyHighCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.27 at 10h 52m 17s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeneyHighCount - 2018.07.28 at 11h 39m 45s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeneyHighCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_maxThree - 2018.07.27 at 10h 52m 50s.xml">
-      <configuration name="MaxStackTest.maxThree" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeneyHighCount - 2018.07.28 at 11h 40m 49s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeneyHighCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest_maxThree - 2018.07.27 at 10h 53m 06s.xml">
-      <configuration name="MaxStackTest.maxThree" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest_eeneyMeeneyHighCount - 2018.07.28 at 11h 41m 21s.xml">
+      <configuration name="JosephusProblemTest.eeneyMeeneyHighCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.27 at 10h 53m 21s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
+    <history-entry file="JosephusProblemTest - 2018.07.28 at 11h 42m 22s.xml">
+      <configuration name="JosephusProblemTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="722" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -332,13 +317,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3296" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24959612" />
       <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -346,47 +330,68 @@
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3296" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Learn" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3296" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="13" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="10" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxStack.java">
+    <entry file="file://$PROJECT_DIR$/src/JosephusProblemTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="328">
+          <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxStackTest.java">
+    <entry file="file://$PROJECT_DIR$/src/JosephusProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
