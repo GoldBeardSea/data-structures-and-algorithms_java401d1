@@ -24,13 +24,14 @@ public class main {
         treeTest.add(5);
         treeTest.add(6);
         treeTest.fizzBuzz();
+        System.out.println("\n");
         System.out.println(treeTest.toString());
+        System.out.println("\n");
         treeTest.fizzBuzzNonRecursive();
-        System.out.println(treeTest.size(treeTest));
-        System.out.println(treeTest.min());
-        System.out.println(treeTest.minForUnorganized());
-        System.out.println(treeTest.containsTwo(7));
-        System.out.println(treeTest.contains(6));
+        System.out.println("\n");
+        //not working quite yet
+        treeTest.fizzBuzzOrder();
+
 
 
     }

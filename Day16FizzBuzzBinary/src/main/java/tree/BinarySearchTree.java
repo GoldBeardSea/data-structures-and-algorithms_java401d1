@@ -39,25 +39,6 @@ public class BinarySearchTree {
         }
     }
 
-    // sets up a pointer to the root node then always moves left
-    // to get to the smallest value in the tree and returns it.
-    public int min() {
-        TreeNode current = this.root;
-        while (current.left != null) {
-            current = current.left;
-        }
-        return current.data;
-    }
-
-    // same as min, but move right to get maximum value
-    public int max() {
-        TreeNode current = this.root;
-        while (current.right != null) {
-            current = current.right;
-        }
-        return current.data;
-    }
-
     public String toString() {
         StringBuilder builder = new StringBuilder();
         return preOrder(builder, this.root).toString();
@@ -73,48 +54,6 @@ public class BinarySearchTree {
         preOrder(builder, current.right);
 
         return builder;
-    }
-
-    private StringBuilder inOrder(StringBuilder builder, TreeNode current) {
-        if (current == null) {
-            return builder;
-        }
-
-        inOrder(builder, current.left);
-        builder.append(current.data + " ");
-        inOrder(builder, current.right);
-
-        return builder;
-    }
-
-    private StringBuilder postOrder(StringBuilder builder, TreeNode current) {
-        if (current == null) {
-            return builder;
-        }
-
-        preOrder(builder, current.left);
-        preOrder(builder, current.right);
-        builder.append(current.data + " ");
-
-        return builder;
-    }
-
-    public boolean contains(int value) {
-        return this.contains(value, this.root);
-    }
-
-    private boolean contains(int value, TreeNode node) {
-        if (node == null) {
-            return false;
-        }
-
-        if (node.data == value) {
-            return true;
-        }
-
-        boolean wasOnLeft = contains(value, node.left);
-        boolean wasOnRight = contains(value, node.right);
-        return wasOnLeft || wasOnRight;
     }
 
     public void fizzBuzz(TreeNode fizzyTreeNode) {
@@ -176,40 +115,28 @@ public class BinarySearchTree {
         }
     }
 
-    public int size (BinarySearchTree testTree) {
-
-        String string = testTree.toString();
-        String[] arrayOfString = string.split(" ");
-        return arrayOfString.length;
-    }
-
-    public int minForUnorganized() {
-        String string = BinarySearchTree.this.toString();
-        String[] arrayOfString = string.split(" ");
-        int minimum = Integer.parseInt(arrayOfString[0]);
-        for (int row = 0; row < arrayOfString.length; row++) {
-            if (minimum > Integer.parseInt(arrayOfString[row])) {
-                minimum = Integer.parseInt(arrayOfString[row]);
-            }
+    //not working quite yet
+    public void fizzBuzzOrder(TreeNode fizzyTreeNode) {
+        if (fizzyTreeNode == null) {
+            return;
         }
-        return minimum;
-    }
+        fizzBuzz(fizzyTreeNode.left);
 
-    public boolean containsTwo(int value) {
-        boolean run = true;
-        String string = BinarySearchTree.this.toString();
-        String[] arrayOfString = string.split(" ");
-        for (int row = 0; row < arrayOfString.length; row++) {
-            if (Integer.parseInt(arrayOfString[row]) == value) {
-                run = true;
-            } else {
-                run = false;
-            }
+        if (fizzyTreeNode.getData() % 15 == 0) {
+            System.out.print("FizzBuzz" + " ");
+        } else if (fizzyTreeNode.getData() % 3 == 0) {
+            System.out.print("Fizz" + " ");
+        } else if (fizzyTreeNode.getData() % 5 == 0) {
+            System.out.print("Buzz" + " ");
+        } else {
+            System.out.print(fizzyTreeNode.getData() + " ");
         }
-        return run;
+
+        fizzBuzz(fizzyTreeNode.right);
     }
 
     public void fizzBuzz() { fizzBuzz(root); }
     public void fizzBuzzNonRecursive() {fizzBuzzNonRecursive(BinarySearchTree.this);}
+    public void fizzBuzzOrder() { fizzBuzzOrder(root);}
 }
 
