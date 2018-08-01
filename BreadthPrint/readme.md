@@ -5,4 +5,3 @@ Create a method that will print out the level order of a traversal tree from lef
 breadthtraversaltree as a method.
 ## Solution
 <img src="../assets/breadth.jpg" alt="whiteboard breadth"/>
-Fizz Buzz is executed in a PreOrder
