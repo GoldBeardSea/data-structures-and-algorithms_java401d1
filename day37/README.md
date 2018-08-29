@@ -9,3 +9,6 @@ Above is merge sort below is selection sort
 2038
 Above is merge sort below is selection sort
 (Unable to complete before the start of lecture)
+
+Tests work upon conversion of doubles to int in the classes
+
